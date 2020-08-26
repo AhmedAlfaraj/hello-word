@@ -1,2 +1,4 @@
 # hello-word
-Just another repository
+How are you?
+
+I am a new user of Github
